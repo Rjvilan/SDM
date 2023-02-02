@@ -13,7 +13,7 @@ class LinearSearch {
         return -1;
     }
  
-    public static void main(String[] args)
+    public static void main(String[] arg)
     {
         int[] arr = { 3, 4, 1, 7, 5 };
         int n = arr.length;
